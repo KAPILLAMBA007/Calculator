@@ -1,0 +1,8 @@
+n1=int(input())
+n2=int(input())
+print("please enter first number", n1)
+print("please enter second number", n2)
+print("addition of numbers is", n1+n2)
+print("subtraction of numbers is", n1-n2)
+print("multiple of numbers is", n1*n2)
+print("division of numbers is",n1/n2)
